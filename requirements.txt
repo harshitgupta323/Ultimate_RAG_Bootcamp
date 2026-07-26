@@ -1,0 +1,15 @@
+langchain
+langgraph
+ipykernel
+numpy
+pandas
+matplotlib
+langchain-huggingface
+sentence-transformers
+python-dotenv
+langchain-ollama
+faiss-cpu
+langchain-faiss
+langchain_community
+langchain-groq
+langchain-experimental
