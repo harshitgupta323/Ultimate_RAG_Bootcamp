@@ -13,3 +13,4 @@ langchain-faiss
 langchain_community
 langchain-groq
 langchain-experimental
+wikipedia
