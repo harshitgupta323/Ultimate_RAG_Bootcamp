@@ -14,3 +14,4 @@ langchain_community
 langchain-groq
 langchain-experimental
 wikipedia
+pymupdf
