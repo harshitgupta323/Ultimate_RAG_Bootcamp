@@ -13,5 +13,7 @@ langchain-faiss
 langchain_community
 langchain-groq
 langchain-experimental
-wikipedia
+wikipedia-api
 pymupdf
+langsmith
+arxiv
