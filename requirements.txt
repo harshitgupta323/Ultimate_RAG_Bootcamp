@@ -17,3 +17,5 @@ wikipedia-api
 pymupdf
 langsmith
 arxiv
+langchain-tavily
+langgraph-supervisor
