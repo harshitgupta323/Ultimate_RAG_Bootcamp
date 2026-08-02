@@ -19,3 +19,5 @@ langsmith
 arxiv
 langchain-tavily
 langgraph-supervisor
+tiktoken
+langchain_chroma
