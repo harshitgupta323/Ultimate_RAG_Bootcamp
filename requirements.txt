@@ -21,3 +21,5 @@ langchain-tavily
 langgraph-supervisor
 tiktoken
 langchain_chroma
+neo4j==5.26
+langchain-neo4j
